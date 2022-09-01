@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Poggi</h1>
 <h3 align="center">Passionate about server-side development, with technologies such as NodeJS, Express and PostgreSQL.</h3>
 
-- 🌱 I’m currently learning **Typescript & MongoDB**
+- 🌱 I’m currently learning **Ruby & Ruby On Rails**
 
 - 👯 I collaborate in the project [OnDrive](https://github.com/NachoPasser/OnDrive)
 
