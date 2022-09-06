@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby & Ruby On Rails**
 
-- 👯 I collaborate in the project [OnDrive](https://github.com/NachoPasser/OnDrive)
+- 🧑‍💼 Working on [IT Crowd](https://www.linkedin.com/company/it-crowd-argentina)
 
 - 📫 How to reach me **marcopoggi2017@gmail.com**
 
